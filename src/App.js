@@ -1,5 +1,11 @@
+import React from 'react';
+import RecipeList from './RecipeList';
+
+// CAME WITH DEFAULT
 import logo from './logo.svg';
 import './App.css';
+// 
+
 
 function App() {
   return (
@@ -9,6 +15,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
           <br></br>
+          <RecipeList/>
           App Ideas:
             Animal Videos
             Recipe Lists
