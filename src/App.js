@@ -27,7 +27,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Check Inventory
+          Check Terms
         </a>
         
       </header>
