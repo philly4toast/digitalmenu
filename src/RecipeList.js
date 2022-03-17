@@ -1,5 +1,5 @@
 import React from 'react';
-
+import RecipeItem from './RecipeItem';
 
 
 
@@ -10,6 +10,7 @@ const RecipeList = (props) => {
     PACIFIC CURRY RICE
     STEAK GRAVY BOAT
     KATSU
+    <RecipeItem/>
   </div>)
 }
 
