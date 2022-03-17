@@ -3,12 +3,13 @@ import React from 'react';
 
 
 
-const RecipeList = () => {
+const RecipeList = (props) => {
   return (<div>
     {/* Items should eventually be populated by checking a list on the database (?) */}
-    ITEM 1
-    ITEM 2
-    ITEM 3
+    SEA CHICKEN AND RICE
+    PACIFIC CURRY RICE
+    STEAK GRAVY BOAT
+    KATSU
   </div>)
 }
 
